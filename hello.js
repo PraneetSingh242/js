@@ -13,5 +13,7 @@ function addTwo(num1, num2){
 
 
 printChai();
-bringBrush(2);
+bringBrush(3);
 console.log(addTwo(1,4));
+
+// this is version 1
