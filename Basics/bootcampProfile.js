@@ -18,10 +18,10 @@ let hometown;
 let skills = ["Html", "Java", "c++"];
 
 let studentProfile = {
-    name: "Kanika",
+    name: "Shani",
     age: 22,
     isPaid: true,
-    skills: ["Bakchodi", "Ladai", "tharki"],
+    skills: ["c++", "Java", "JavaScript"],
     favouriteClass: null
 
 }
